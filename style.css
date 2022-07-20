@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://www.pcgamesn.com/wp-content/uploads/2021/11/league-of-legends-arcane-phase-3.jpg");
+    background-color: #cccccc;
+   }
+   #bottomLeft{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+   }
