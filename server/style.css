@@ -1,0 +1,9 @@
+body {
+    background-image: url("arcane.jpg");
+    background-color: #cccccc;
+   }
+   #bottomLeft{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+   } 
