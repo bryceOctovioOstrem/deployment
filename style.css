@@ -6,7 +6,11 @@ body {
     position:absolute;
     bottom: 0;
     right: 0;
+    color:wheat;
    } 
    #duck{
     height: 100px;
+   }
+   h1 {
+    color:wheat;
    }
